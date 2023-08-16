@@ -17,7 +17,8 @@
 The Conic Gradient plugin for Tailwind CSS empowers you to effortlessly create and personalize conic gradients using utility classes and components. Conic gradients are a visually appealing type of gradient that emanates from a central
 point in a circular pattern. This plugin provides an extensive range of options for configuring the number of colors, gradient positions, angles, and default colors for your conic gradients.
 
-![](C:\www\npm-packages\packages\tailwindcss-conic-gradient\screenshot.png)
+![screenshot.png](screenshot.png)
+
 ## 📇 Table of Contents
 
 * [Installation](#installation)
